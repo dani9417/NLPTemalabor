@@ -1,0 +1,3 @@
+Ez itt egy teszt mondat. A teszt mondatok arra valók, hogy a szavakat sorba
+rendezze egy program. A mondatok szavakból állnak. Ez itt pedig egy lezáró
+mondat.
